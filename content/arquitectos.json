@@ -1,0 +1,82 @@
+[
+    {
+      "num": 1,
+      "name": "Adrian Smith (Skidmore, Owings & Merrill)",
+      "nacionalidad": "Estadounidense",
+      "estilo": "Arquitectura moderna y sostenible, especialmente rascacielos",
+      "obras_notables": "Burj Khalifa, Jeddah Tower, Central Park Tower.",
+      "distincion": "Es conocido por diseñar algunos de los edificios más altos del mundo",
+      "slug": "arquitecto1",
+      "image": "arquitectos/arquitecto_1.jpg"
+    },
+    {
+      "num": 2,
+      "name": "Fender Katsalidis",
+      "nacionalidad": "Australiana",
+      "estilo": "Diseño innovador, funcional y de gran escala.",
+      "obras_notables": "Eureka Tower, Merdeka 118.",
+      "distincion": "Se especializa en edificios altos y en proyectos de urbanización de gran escala",
+      "slug": "arquitecto2",
+      "image": "arquitectos/arquitecto_2.jpg"
+    },
+    {
+      "num": 3,
+      "name": "Gensler",
+      "nacionalidad": "Estadounidense (firma global).",
+      "estilo": "Arquitectura moderna y sostenible, con énfasis en eficiencia energética.",
+      "obras_notables": "Shanghai Tower, Incheon Airport, The Tower at PNC Plaza.",
+      "distincion": "Es una de las firmas de arquitectura más grandes del mundo.",
+      "slug": "arquitecto3",
+      "image": "arquitectos/arquitecto_3.jpg"
+    },
+    {
+      "num": 4,
+      "name": "SL Rasch GmbH",
+      "nacionalidad": "Alemana",
+      "estilo": "Especialización en edificios religiosos y rascacielos.",
+      "obras_notables": "Abraj Al Bait, Masjid Al Haram expansion.",
+      "distincion": "Expertos en diseño estructural y tecnológico en condiciones extremas.",
+      "slug": "arquitecto4",
+      "image": "arquitectos/arquitecto_4.jpg"
+    },
+    {
+      "num": 5,
+      "name": "Kohn Pedersen Fox (KPF)",
+      "nacionalidad": "Estadounidense",
+      "estilo": "Arquitectura moderna, especializada en rascacielos y oficinas.",
+      "obras_notables": "Ping An Finance Centre, Lotte World Tower, Shanghai World Financial Center, Guangzhou CTF Finance Centre.",
+      "distincion": "Reconocidos globalmente por diseñar algunos de los rascacielos más altos del mundo.",
+      "slug": "arquitecto5",
+      "image": "arquitectos/arquitecto_5.jpg"
+    },
+    {
+      "num": 6,
+      "name": "Skidmore, Owings & Merrill (SOM)",
+      "nacionalidad": "Estadounidense (firma global)",
+      "estilo": "Arquitectura moderna y vanguardista, con enfoque en rascacielos y proyectos urbanos.",
+      "obras_notables": "One World Trade Center, Tianjin CTF Finance Centre, Finance Centre.",
+      "distincion": "Firma líder en la creación de rascacielos emblemáticos.",
+      "slug": "arquitecto6",
+      "image": "arquitectos/arquitecto_6.jpg"
+    },
+    {
+      "num": 7,
+      "name": "RMJM",
+      "nacionalidad": "Escocesa (firma global)",
+      "estilo": "Arquitectura moderna, enfocada en soluciones innovadoras y sostenibles.",
+      "obras_notables": "Lakhta Center, Beijing Olympic Green Convention Center.",
+      "distincion": "Conocidos por su diseño tecnológico y sostenible en grandes proyectos.",
+      "slug": "arquitecto7",
+      "image": "arquitectos/arquitecto_7.jpg"
+    },
+    {
+      "num": 8,
+      "name": "Mulia Group",
+      "nacionalidad": "Indonesio",
+      "estilo": "Arquitectura contemporánea y proyectos de gran escala.",
+      "obras_notables": "The Exchange 106, Wisma Mulia 1 & 2.",
+      "distincion": "Enfocados en proyectos de gran envergadura en Asia, como centros financieros y residenciales.",
+      "slug": "arquitecto8",
+      "image": "arquitectos/arquitecto_8.jpg"
+    }
+]  

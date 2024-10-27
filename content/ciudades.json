@@ -1,0 +1,102 @@
+[
+    {
+      "num": 1,
+      "name": "Dubái, Emiratos Árabes Unidos",
+      "poblacion": "Aproximadamente 3.5 millones",
+      "clima": "Desértico, con veranos extremadamente calurosos e inviernos suaves.",
+      "economia": "Fuerte en turismo, comercio, finanzas e inmobiliaria.",
+      "infraestructura": " Es conocida por su arquitectura moderna y sus rascacielos, como el Burj Khalifa.",
+      "slug": "ciudad1",
+      "image": "ciudades/ciudad_1.jpg"
+    },
+    {
+      "num": 2,
+      "name": "Kuala Lumpur, Malasia",
+      "poblacion": "Aproximadamente 1.8 millones",
+      "clima": "Tropical monzónico, con lluvias durante todo el año",
+      "economia": "Importante centro financiero, bancario y comercial del sudeste asiático.",
+      "infraestructura": "Notable por sus rascacielos, incluido el The Exchange 106 y Merdeka 118.",
+      "slug": "ciudad2",
+      "image": "ciudades/ciudad_2.jpg"
+    },
+    {
+      "num": 3,
+      "name": "Shanghái, China",
+      "poblacion": "Aproximadamente 26 milloness",
+      "clima": "Subtropical húmedo, con inviernos fríos y veranos calurosos y húmedos.",
+      "economia": "Es uno de los principales centros financieros y comerciales del mundo.",
+      "infraestructura": "Cuenta con una gran cantidad de rascacielos modernos, incluido el Shanghai Tower.",
+      "slug": "ciudad3",
+      "image": "ciudades/ciudad_3.jpg"
+    },
+    {
+      "num": 4,
+      "name": "La Meca, Arabia Saudit",
+      "poblacion": "Aproximadamente 1.5 millones",
+      "clima": "Desértico, con temperaturas muy altas en verano y escasas precipitacione",
+      "economia": "Principalmente basada en el turismo religioso, con millones de peregrinos cada año..",
+      "infraestructura": "Se ha desarrollado significativamente para recibir a millones de peregrinos, con complejos como Abraj Al Bait.",
+      "slug": "ciudad4",
+      "image": "ciudades/ciudad_4.jpg"
+    },
+    {
+      "num": 5,
+      "name": "Shenzhen, China",
+      "poblacion": "Aproximadamente 17.6 millones",
+      "clima": "Subtropical húmedo, con veranos calurosos y húmedos",
+      "economia": "Es una de las ciudades más ricas y tecnológicamente avanzadas de China.",
+      "infraestructura": "Famosa por su rápido crecimiento y gran cantidad de rascacielos. Como se destaca el Ping An Finance Centre.",
+      "slug": "ciudad5",
+      "image": "ciudades/ciudad_5.jpg"
+    },
+    {
+      "num": 6,
+      "name": "Seúl, Corea del Sur",
+      "poblacion": "Aproximadamente 9.7 millones",
+      "clima": "Continental húmedo, con inviernos fríos y veranos calurosos.",
+      "economia": "Principal motor económico de Corea del Sur, con fuerte énfasis en tecnología y finanzas",
+      "infraestructura": "Seúl tiene una mezcla de arquitectura moderna y templos históricos, con rascacielos como Lotte World Tower.",
+      "slug": "ciudad6",
+      "image": "ciudades/ciudad_6.jpg"
+    },
+    {
+      "num": 7,
+      "name": "Nueva York, EE.UU",
+      "poblacion": "Aproximadamente 8.5 millones",
+      "clima": "Continental húmedo, con inviernos fríos y veranos cálidos.",
+      "economia": "Es uno de los principales centros financieros, culturales y comerciales del mundo.",
+      "infraestructura": "Conocida por sus icónicos rascacielos, como el Empire State Building, el One World Trade Center y el Central Park Tower.",
+      "slug": "ciudad7",
+      "image": "ciudades/ciudad_7.jpg"
+    },
+    {
+      "num": 8,
+      "name": "Tianjin, China",
+      "poblacion": "Aproximadamente 13 millones",
+      "clima": "Continental húmedo, con veranos cálidos y húmedos e inviernos fríos.",
+      "economia": "Importante puerto y centro de manufactura de China.",
+      "infraestructura": "Famosa por su desarrollo industrial y su moderno skyline. Se encuentra el Tianjin CTF Finance Centre",
+      "slug": "ciudad8",
+      "image": "ciudades/ciudad_8.jpg"
+    },
+    {
+      "num": 9,
+      "name": "Guangzhou, China",
+      "poblacion": "Aproximadamente 15.3 millones",
+      "clima": "Subtropical húmedo, con veranos calurosos y lluvias abundantes.",
+      "economia": "Importante centro de comercio y manufactura, especialmente en textiles y electrónicos.",
+      "infraestructura": "Famosa por su rápido crecimiento urbano y sus rascacielos. Se encuentra el Guangzhou CTF Finance Centre",
+      "slug": "ciudad9",
+      "image": "ciudades/ciudad_9.jpg"
+    },
+    {
+      "num": 10,
+      "name": "San Petersburgo, Rusia",
+      "poblacion": "Aproximadamente 5.4 millones",
+      "clima": "Continental húmedo, con inviernos fríos y veranos templados",
+      "economia": "Principal puerto y centro cultural de Rusia.",
+      "infraestructura": "Mezcla de arquitectura histórica y moderna, con edificios como el Lakhta Center.",
+      "slug": "ciudad10",
+      "image": "ciudades/ciudad_10.jpg"
+    }
+]  

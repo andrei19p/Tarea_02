@@ -1,0 +1,16 @@
+
+### NuxtJS ###
+# Generated dirs
+dist
+.nuxt
+.nuxt-*
+.output
+.gen
+
+# Node dependencies
+node_modules
+package-lock.json
+
+# System files
+*.log
+*.docx

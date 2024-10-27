@@ -3,7 +3,23 @@
     async asyncData({ $content, params }) {
       const edificio = await $content('edificios', params.slug).fetch()
       return { edificio }
+    },
+  mounted() {
+  setTimeout(() => {
+    const script = document.createElement('script');
+    script.src = "https://utteranc.es/client.js";
+    script.setAttribute("repo", "andrei19p/Tarea_02");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("crossorigin", "anonymous");
+    script.async = true;
+
+    const commentsContainer = document.getElementById('comments');
+    if (commentsContainer) {
+      commentsContainer.appendChild(script);
     }
+  });
+}
   }
 </script>
 
@@ -33,6 +49,7 @@
 	 </div>
 	 <div class="two columns"></div>
    </div>
+   <div id="comments"></div>
    <FooterView />
  </div>
 </template>
